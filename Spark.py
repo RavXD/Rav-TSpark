@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
-# coded by angga kurniawan
+# coded by RavXD
 # fb.me/RavXD
 # instagram.com/RavXD
 # open source, 
